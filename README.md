@@ -6,7 +6,7 @@ An advanced mathematical captcha for simple human verification.
 
 This is an example to make an verification:
 ```Python
-from adv-math-captcha import Captcha
+from adv_math_captcha import Captcha
 
 
 if __name__ == '__main__':

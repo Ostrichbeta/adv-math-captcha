@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: adv-math-captcha-ostrichb
-Version: 0.9.9
+Version: 0.9.10
 Summary: Advanced mathematical captcha generator and 
 Home-page: https://github.com/Ostrichbeta/adv-math-captcha
 Author: Ostrichbeta
@@ -24,7 +24,7 @@ An advanced mathematical captcha for simple human verification.
 
 This is an example to make an verification:
 ```Python
-from adv-math-captcha import Captcha
+from adv_math_captcha import Captcha
 
 
 if __name__ == '__main__':

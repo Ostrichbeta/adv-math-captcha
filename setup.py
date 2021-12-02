@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="adv-math-captcha-ostrichb",
-    version="0.9.9",
+    version="0.9.10",
     author="Ostrichbeta",
     author_email="ostrichb@yandex.com",
     description="Advanced mathematical captcha generator and ",
