@@ -1,1 +1,1 @@
-adv-math-captcha
+adv_math_captcha
