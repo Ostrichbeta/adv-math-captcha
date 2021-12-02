@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+setup.py
+src/adv-math-captcha/__init__.py
+src/adv-math-captcha/captcha.py
+src/adv-math-captcha/generate.py
+src/adv_math_captcha_ostrichb.egg-info/PKG-INFO
+src/adv_math_captcha_ostrichb.egg-info/SOURCES.txt
+src/adv_math_captcha_ostrichb.egg-info/dependency_links.txt
+src/adv_math_captcha_ostrichb.egg-info/requires.txt
+src/adv_math_captcha_ostrichb.egg-info/top_level.txt
