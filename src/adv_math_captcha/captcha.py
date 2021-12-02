@@ -1,4 +1,4 @@
-from generate import generate_formula
+from .generate import generate_formula
 from sympy import *
 from sympy.parsing.sympy_parser import parse_expr
 import math
